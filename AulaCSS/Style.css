@@ -1,0 +1,32 @@
+.pai {
+    background-color: rgb(3, 170, 51);
+    width: 550px;
+    height: 300px;
+    border: solid 6px rgb(0, 0, 0);
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.caixa {
+    background-color: rgb(3, 170, 51);
+    width: 550px;
+    height: 300px;
+    border: solid 6px rgb(0, 0, 0);
+    margin: 10px;
+}
+
+.titulo {
+    font-Family: cursive;
+}
+
+.corPadrao {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+.bola {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color:  rgb(0, 0, 0);
+}
